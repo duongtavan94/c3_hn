@@ -55,11 +55,7 @@ class HomeController extends Controller
 
         $tintuc = Product::where('status', 1)->where('is_home', 1)->orderBy('position', 'ASC')->take(6)->get();
 
-        
-
-
-
-        return view('frontend.index', compact('product', 'cf', 'top', 'tes','tes_name', 'cate_post', 'tintuc', 'giaoduc', 'conso', 'hang', 'baihay'));
+        return view('frontend.index', compact('product', 'top', 'cate_post', 'tintuc', 'giaoduc', 'conso', 'hang', 'baihay'));
 
     }
 
