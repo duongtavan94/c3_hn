@@ -1,0 +1,1 @@
+[10-Apr-2019 15:37:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\SettingController::update2() in /home/cp208403/public_html/bostonenglish.vn/app/Http/Controllers/Admin/SettingController.php on line 241

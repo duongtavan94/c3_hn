@@ -1,0 +1,198 @@
+
+@media (min-width: 1200px){
+
+}
+
+
+
+@media (max-width: 992px) {
+
+}
+
+
+@media (min-width: 769px) {
+    .fancybox-slide {
+    /* left: 0; */
+    /* right: auto; */
+    width: 50%;
+}
+.fancybox-content {
+    transform: none !important;
+    width: 100% !important;
+    height: 100% !important;
+    /* position: relative; */
+}
+
+.fancybox-content img {
+    width: auto !important;
+    height: auto !important;
+    max-width: 80%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.fancybox-caption {
+    width: 50%;
+    right: 0;
+    left: auto;
+    top: 21px;
+    background: none;
+}
+}
+
+@media (max-width: 768px) {
+.register {
+    right: 20px;
+}
+.sigin {
+    margin-top: 11px !important;
+}
+
+
+}
+
+
+
+@media (max-width: 576px) {
+
+    .ndtabgt img {
+    height: auto !important;
+}
+    .header {
+    display: none;
+}
+
+.headermb {
+    display: block !important;
+}
+
+.language2 img {
+    width: 28px;
+    float: right;
+    padding: 3px;
+    height: 18px;
+}
+
+.logo {
+    display: none;
+}
+.keotren {
+    display: none;
+}
+.logomenu {
+    overflow: unset;
+}
+h2.tdh2 {
+    font-size: 18px;
+}
+
+.mtka p {
+    text-align: center;
+}
+.mtb2 {
+    bottom: 0;
+    height: 130px;
+}
+
+.mtb2 h1 {
+    font-size: 20px;
+    margin: 7px;
+}
+
+.mtb2 p {
+    font-size: 9px;
+    padding: 1px;
+    text-align: center;
+}
+
+.box2 img {
+    /* height: 147px; */
+}
+
+.mtb2 {}
+span.ckasls2 {
+    left: 11%;
+}
+.formdk {
+    width: 100%;
+    left: 0;
+    height: 213px;
+    /* top: 0; */
+    right: 0;
+    bottom: 0;
+    top: 0px;
+}
+
+.formdk h3 {
+    font-size: 13px;
+    padding: 10px 0px;
+}
+
+.formdk input {
+    font-size: 11px;
+    padding: 0;
+    height: 20px;
+}
+
+.box6 img {
+    height: 213px;
+}
+
+.formdk button {
+    font-size: 10px;
+    padding: 7px 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.box6 {
+    padding-top: 0px;
+    margin-top: 10px;
+}
+.tieude1 img {
+    display: none;
+}
+.logomenu {
+    height: auto;
+}
+.tdtab .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    font-size: 11px;
+}
+.ndtabgt .tab-content {
+     width: 100%; 
+}
+.contact-head h1 span {
+    font-size: 19px;
+    font-weight: bold;
+}
+.contact-head h2 {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+.lt_title h2 {
+    font-size: 15px;
+}
+.lt_form {
+     width: 100%; 
+}
+.mobile{
+    display: block !important;
+}
+.pc{
+    display: none;
+}
+.lmiach img {
+    height: auto !important;
+}
+.bando iframe {
+    width: 100%;
+    height: auto;
+}
+.lienhes {
+    padding: 50px;
+}
+
+}
